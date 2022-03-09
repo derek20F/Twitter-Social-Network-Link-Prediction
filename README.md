@@ -1,5 +1,10 @@
 # Link Prediction - Who is my friend?
 
+## Summary
+*	Implemented machine learning models (KNN, SVM, RF, MLP) to identify existing links (relationship) between Twitter users
+*	Achieved 74% AUC in predicting the existence of a relationship between two Twitter users
+
+
 ## Data
 
 Each user is treated as a node. And the relationship between two nodes are treated as a link (edge).
